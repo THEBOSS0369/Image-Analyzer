@@ -2,7 +2,7 @@
 
 ## Description
 
-Image Analyzer is a web application that allows users to upload an image's link and get details about what is in the image. The project uses the Clarifai API for image recognition, Tailwind CSS for styling, Shadcn for component styling, and Next UI for the user interface.
+Image Analyzer is a web application that allows users to upload an image's link and get details about what is in the image like if you upload an image of Vegetables it will show all the vegetables name present in the image. The project uses the Clarifai API for image recognition, Tailwind CSS for styling, Shadcn for component styling, and Next UI for the user interface.
 
 ## Features
 
