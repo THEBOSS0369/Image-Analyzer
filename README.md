@@ -28,6 +28,7 @@ Image Analyzer is a web application that allows users to upload an image's link 
 I would highly appriciate if you can contribute to this projcet and more features.
 
 ## Deployment
+
 I will be deploying this Project very soon on Vercel. Stay Tuned!!
 
 ## Installation
