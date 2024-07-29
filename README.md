@@ -1,4 +1,8 @@
 # Image Analyzer
+![Main](https://github.com/user-attachments/assets/5f5fe0d6-812e-4680-8866-e49ac003f9df)
+![Details](https://github.com/user-attachments/assets/bfdd596d-5c07-4cf7-a774-9b643402bd73)
+![Details 4](https://github.com/user-attachments/assets/0abcf3b4-8b19-4fb1-b39c-91377f3c4997)
+![Details 6](https://github.com/user-attachments/assets/06cd2429-8737-4586-a43b-b6c9d12183d9)
 
 ## Description
 
