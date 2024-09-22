@@ -25,7 +25,7 @@ Image Analyzer is a web application that allows users to upload an image's link 
 
 ## Conrtibution
 
-I would highly appriciate if you can contribute to this projcet and more features.
+I would highly appriciate if you can contribute to this projcet and more features.It will be helpful
 
 ## Deployment
 
